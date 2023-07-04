@@ -15,4 +15,4 @@
 - 🔵 Game
 - 🍕 Pizza
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wns5255)](https://solved.ac/wns5255)
+
