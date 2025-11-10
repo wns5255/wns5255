@@ -6,7 +6,7 @@
 - 🚅 My hometown is Seoul in Korea
 
 ### Experience
-- 🧑‍💼  (2012.12~2017.07)
+- 🏢 WINS Technet Co., Ltd. (Pangyo), Staff, Network Security Solutions (2012.12~2017.07)
 - 🎓 Soongsil University, Dual Bachelor's Degree in Media Management and Software (Dual Major) (2017.03~2021.08)
 - 🏛️ Soongisl University, MS Student in Media (2021.09~2024.02)
 - 👨‍🔬 Soongsil University, Full-time Researcher at GSC Lab (2024.03~2025.02)
