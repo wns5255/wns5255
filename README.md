@@ -1,18 +1,30 @@
 # Harry 😉
 
-### Who Am I
-- 🌱 I’m currently learning Node, RAG, Algorithm, XR, 3D
-- 🥇 I majored in XR Contents PM and SoftEngineer
-- 🚅 My hometown is Seoul in Korea
+## About
+- RAG 기반 지식그래프/검색 파이프라인, XR(유니티) 콘텐츠, 데이터 처리 자동화를 만드는 연구·개발자입니다.
+- “비정형 데이터 → 구조화(KG/스키마) → 검색/추론 → 사용자 경험(웹·XR)”까지 end-to-end로 설계/구현하는 걸 지향합니다.
+- Based in Seoul, Korea 🇰🇷
 
-### Experience
-- 🏛️ Soongsil University, PhD Student in Department of Metaverse Culture and Contents (2025.03~Present)
-- 👨‍🔬 Soongsil University, Full-time Researcher at GSC Lab (2024.03~2025.02)
-- 🏛️ Soongisl University, MS Student in Media (2021.09~2024.02)
-- 🎓 Soongsil University, Dual Bachelor's Degree in Media Management and Software (Dual Major) (2017.03~2021.08)
-- 🏢 WINS Technet Co., Ltd. (Pangyo), Staff, Network Security Solutions (2012.12~2017.07)
+## Interests
+- Retrieval-Augmented Generation (RAG) · Knowledge Graph (RDF/OWL, SPARQL)
+- Data Engineering / Experiment Pipeline (Python)
+- XR / Unity (sensor + realtime interaction) · 3D/Geo visualization
 
+## Experience
+- 🎓 Soongsil University — Ph.D. Student, Metaverse Culture & Contents (2025.03–Present)
+- 🔬 GSC Lab, Soongsil University — Full-time Researcher (2024.03–2025.02)
+- 🎓 Soongsil University — M.S. in Media (2021.09–2024.02)
+- 🎓 Soongsil University — B.S. Dual Major: Media Management & Software (2017.03–2021.08)
+- 🏢 WINS Technet Co., Ltd. (Pangyo) — Staff, Network Security Solutions (2012.12–2017.07)
 
+## Featured Projects
+- RAG + Knowledge Graph for Korean historical place names
+- VO₂ prediction/calibration pipeline with wearable signals
+- Unity XR / MR interactive content
+
+## Contact
+- Email: tkdwns8477@gmail.com
+- Portfolio/Notion: https://www.notion.so/2e5b3a3440008131be4ffc79b8a481db?source=copy_link
 
 
 ### 🛠 Tech Stack
