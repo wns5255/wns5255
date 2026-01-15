@@ -11,3 +11,6 @@
 - 🏛️ Soongisl University, MS Student in Media (2021.09~2024.02)
 - 👨‍🔬 Soongsil University, Full-time Researcher at GSC Lab (2024.03~2025.02)
 - 🏛️ Soongsil University, PhD Student in Department of Metaverse Culture and Contents (2025.03~Present)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wns5255&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
