@@ -1,8 +1,8 @@
 # Sangjoon Bae 😉
 
 ## About
-- RAG 기반 지식그래프/검색 파이프라인, XR(유니티) 콘텐츠, 데이터 처리 자동화를 만드는 연구·개발자입니다.
-- “비정형 데이터 → 구조화(KG/스키마) → 검색/추론 → 사용자 경험(웹·XR)”까지 end-to-end로 설계/구현하는 걸 지향합니다.
+- I’m an R&D engineer building RAG-based knowledge graph & retrieval pipelines, XR (Unity) experiences, and data-processing automation.
+- I focus on end-to-end systems: from unstructured data to structured representations (KG/schema), retrieval & reasoning, and user experiences across web and XR.
 - Based in Seoul, Korea 🇰🇷
 
 ## Interests
