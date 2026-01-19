@@ -1,4 +1,4 @@
-# Sangjoon Bae 😉
+# Sangjoon Bae😉
 
 ## About
 - I’m an R&D engineer building RAG-based knowledge graph & retrieval pipelines, XR (Unity) experiences, and data-processing automation.
